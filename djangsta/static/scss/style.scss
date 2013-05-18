@@ -1,0 +1,9 @@
+$icons-layout: diagonal;
+
+@import "icons/*.png";
+@include all-icons-sprites;
+
+@import "compass";
+@import "bootstrap/bootstrap";
+@import "bootstrap/responsive";
+
